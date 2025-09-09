@@ -15,8 +15,8 @@ class Pet:
 
 
 # Пример использования:
-dog = Pet("Бобик", 3, "Собака", hunger=30, energy=80)
-cat = Pet("Мурка", 2, "Кот", hunger=60, energy=50)
+dog = Pet("Биба", 3, "Собака", hunger=30, energy=80)
+cat = Pet("Боба", 2, "Кот", hunger=60, energy=50)
 
 dog.show_info()
 print("-----")
