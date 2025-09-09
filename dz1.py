@@ -1,2 +1,2 @@
-text = str("Hello, vykladach!")
-print(text)
+text1 = str("Hello, vykladach!")
+print(text1)
